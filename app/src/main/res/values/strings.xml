@@ -2,4 +2,7 @@
     <string name="app_name">Codenames Master</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="blank_word">______</string>
+    <string name="back_arrow"><![CDATA[<--]]></string>
+    <string name="next_arrow"><![CDATA[-->]]></string>
 </resources>
