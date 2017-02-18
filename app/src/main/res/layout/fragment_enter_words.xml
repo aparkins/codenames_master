@@ -25,207 +25,183 @@
         <Button
             android:id="@+id/word_button_0_0"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_0_1"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_0_2"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_0_3"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_0_4"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
 
         <Button
             android:id="@+id/word_button_1_0"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_1_1"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_1_2"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_1_3"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_1_4"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
 
         <Button
             android:id="@+id/word_button_2_0"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_2_1"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_2_2"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_2_3"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_2_4"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
 
         <Button
             android:id="@+id/word_button_3_0"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_3_1"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_3_2"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_3_3"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_3_4"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
 
         <Button
             android:id="@+id/word_button_4_0"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width = "0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_4_1"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width = "0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_4_2"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width = "0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_4_3"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width = "0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"/>
         <Button
             android:id="@+id/word_button_4_4"
             android:text="@string/blank_word"
-            android:minWidth="0dp"
-            android:minHeight="0dp"
-            android:layout_columnSpan="1"
+            android:layout_width = "0dp"
+            android:layout_height="0dp"
             android:layout_columnWeight="1"
-            android:layout_rowWeight="1"/>
+            android:layout_rowWeight="1"
+            android:ellipsize="end"/>
 
     </GridLayout>
 
